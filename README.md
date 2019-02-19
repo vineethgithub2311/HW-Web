@@ -1,5 +1,6 @@
 # HW-Web
 
+***weather_data.html is the index file***
 The work involved creating a webpage for the weather data which was analyzed previously. 
 Used Web tools like Bootstrap and also used Javascript.
 Styling the pages with CSS was time consuming.
