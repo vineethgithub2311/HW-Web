@@ -26,7 +26,7 @@ var tabulate = function (data,columns) {
         .text(function (d) { return d.value })
   
     return table;
-  }
+}
   
   d3.csv('Resources/cities.csv',function (data) {
       var columns = ['variable','aror','asd','maxdd']
