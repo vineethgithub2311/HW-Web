@@ -1,0 +1,50 @@
+body {
+  padding: 0;
+  margin: 0 auto;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #e7e7e3;
+  height: 95%;
+}
+
+header {
+  background: rgb(238, 235, 235);
+}
+
+div.container-fluid{
+  background-color: rgb(14, 190, 152);
+}
+
+.navbar-brand {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    margin: 0 auto;
+  }
+
+table {
+    border-collapse: collapse;
+    border: 2px black solid;
+    font: 12px sans-serif;
+}
+
+td {
+    border: 1px black solid;
+    padding: 5px;
+}
+
+footer{
+
+background: rgb(14, 190, 152);
+padding: 5px;
+color: white;
+text-align: center;
+
+}
+
+div.container{
+
+  min-height: 100%;
+  position:relarive;
+}
